@@ -1,0 +1,24 @@
+body {
+	text-align: center;
+	justify-content: center;
+	padding: 50px;
+	margin: 50px;
+}
+
+div {
+	border: 2px solid black;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+#Card-IC {
+	border: 2px solid orange;
+}
+
+#Card-Network {
+	border: 2px solid blue;
+}
+
+#Card-Hobbies {
+	border: 2px solid green;
+}
